@@ -27,7 +27,6 @@ public class TicTacToe {
 		 System.out.println("Computer's choice is : " +computer);
 	}
 	
-	
 	public static void showBoard() {
 		System.out.println();
         System.out.println("  " + board[1] + "  |  " + board[2]  + "   | " + board[3] + "  ");
